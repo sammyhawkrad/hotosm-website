@@ -3,13 +3,13 @@ title: 'Disaster Activation: Cyclones, Flooding, Volcanic Eruption, Ebola outbre
   2018'
 date: 2018-06-12 11:50:00 Z
 permalink: projects/spring-2018-disaster-support
-position: 41
+position: 58
 Project Summary Text: Since the beginning of May 2018, HOT has been called upon to
   respond to, or assist, a handful of disasters across the globe. Details on the projects,
   and how you can get involved are below. Maps can play a critical role in potentially
   saving the lives of millions of people worldwide, a big thank you to the mappers
   volunteering to create them.
-Feature Image: "/uploads/spring-2018-disaster-support.png"
+Feature Image: https://cdn.hotosm.org/website/spring-2018-disaster-support.png
 Is Community-Led: true
 Country:
 - Somalia

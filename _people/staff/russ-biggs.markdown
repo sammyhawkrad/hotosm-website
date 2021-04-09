@@ -1,7 +1,7 @@
 ---
 title: Russ Biggs
 date: 2019-07-01 15:58:00 Z
-Photo: "/uploads/russ_biggs.jpg"
+Photo: https://cdn.hotosm.org/website/russ_biggs.jpg
 Member Type:
   Is Staff: false
 Job Title: Technical Project Manager
@@ -14,4 +14,4 @@ redirect_from:
 - "/users/russ_biggs"
 ---
 
-Russ is a technical project manager leading HOT's work on mobile data collection tools and projects.
+Russ is a technical project manager and worked on HOT's mobile data collection tools and projects.

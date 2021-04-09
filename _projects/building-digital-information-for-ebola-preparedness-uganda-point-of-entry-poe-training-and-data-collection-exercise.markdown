@@ -2,13 +2,13 @@
 title: 'Digital Information for Ebola Preparedness: Point of Entry Training and Data
   Collection in Uganda'
 date: 2019-09-02 17:17:00 Z
-position: 33
+position: 50
 Project Summary Text: With support from the International Organization for Migration
   (IOM), HOT is developing a robust digital information system for tracking the use
   and availability of Ebola-related preparedness at Points of Entry between Uganda
   and the Democratic Republic of the Congo.
-Feature Image: "/uploads/EBwjqBqXkAE-v1o.jpg"
-Project Logo Image: "/uploads/IOM_logo.JPG"
+Feature Image: https://cdn.hotosm.org/website/EBwjqBqXkAE-v1o.jpg
+Project Logo Image: https://cdn.hotosm.org/website/IOM_logo.JPG
 Country:
 - Uganda
 Impact Area:

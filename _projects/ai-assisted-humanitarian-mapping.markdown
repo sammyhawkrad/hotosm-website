@@ -1,12 +1,12 @@
 ---
 title: 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
 date: 2019-03-12 12:00:00 Z
-position: 21
+position: 38
 Project Summary Text: HOT partnered with Microsoft Philanthropies and Bing Maps to
   produce AI-detected open building datasets for Tanzania and Uganda and to pilot
   Machine Learning assisted workflows in the Tasking Manager application in order
   to enhance mapper experience.
-Feature Image: "/uploads/oam-kampala.jpg"
+Feature Image: https://cdn.hotosm.org/website/oam-kampala.jpg
 Country:
 - Tanzania
 - Uganda

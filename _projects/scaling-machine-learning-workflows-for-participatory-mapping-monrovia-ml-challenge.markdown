@@ -2,12 +2,12 @@
 title: 'Scaling Machine-Learning Workflows for Participatory Mapping: Monrovia ML
   Challenge'
 date: 2020-06-11 17:43:00 Z
-position: 1
+position: 18
 Project Summary Text: 'Building on the work conducted during the Open Cities Africa
   Monrovia project (2018-2019), HOT and iLab Liberia will contribute to the development
   of operational machine learning (ML) methods to improve both the scale and speed
   of the participatory mapping workflow. '
-Feature Image: "/uploads/cover.jpeg"
+Feature Image: https://cdn.hotosm.org/website/cover.jpeg
 Country:
 - Liberia
 Impact Area:

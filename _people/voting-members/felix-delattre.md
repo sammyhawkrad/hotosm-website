@@ -1,7 +1,7 @@
 ---
 title: Felix Delattre
 date: 2013-12-01 16:40:00 Z
-Photo: "/uploads/felix.jpg"
+Photo: https://cdn.hotosm.org/website/felix.jpg
 Member Type:
   Is Staff: false
   Is Voting Member: true
@@ -10,6 +10,10 @@ Job Title: Vice President
 Working Group:
 - Governance
 - Technical
+Languages:
+- Deutsch
+- English
+- Español
 Project:
 - Research on mapping with open machine learning
 - 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'

@@ -1,12 +1,12 @@
 ---
 title: Open Cities Africa - Monrovia City Project - Liberia
 date: 2019-05-03 16:17:00 Z
-position: 32
+position: 49
 Project Summary Text: Open Cities Monrovia project activities were centered on addressing
   flooding and challenges relating to flooding through the provision of up-to-date
   data of Zone 300, the area of interest. Flooding in Monrovia is cyclical and occurs
   during the rainy season every year (April - October).
-Feature Image: "/uploads/Doe%20Community%20in%20Monrovia-850aed.JPG"
+Feature Image: https://cdn.hotosm.org/website/Doe+Community+in+Monrovia-850aed.JPG
 Is image top aligned: true
 Country:
 - Liberia

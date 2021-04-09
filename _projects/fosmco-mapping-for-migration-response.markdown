@@ -1,10 +1,10 @@
 ---
 title: 'FOSMCo: Mapping for Migration Response'
 date: 2019-06-05 12:17:00 Z
-position: 31
+position: 48
 Project Summary Text: Using map data of the borders for improving response to migration
   in Colombia.
-Feature Image: "/uploads/FOSM%20Colombia-64e95e.jpg"
+Feature Image: https://cdn.hotosm.org/website/FOSM+Colombia-64e95e.jpg
 Is Community-Led: true
 Country:
 - Colombia

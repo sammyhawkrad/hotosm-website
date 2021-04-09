@@ -2,12 +2,12 @@
 title: 'Training and Capacity Building: Caribbean Open Data Program'
 date: 2015-08-01 20:46:00 Z
 permalink: projects/training-and-capacity-building-caribbean-open-data-program
-position: 57
+position: 74
 Project Summary Text: HOT provided OpenStreetMap training as part of the World Bank's
   Caribbean Open Data Program, which aims to increase the ability of countries to
   create new businesses and generate more value, as well as improve the delivery of
   various services.
-Feature Image: "/uploads/GISWomenJamaica.jpg"
+Feature Image: https://cdn.hotosm.org/website/GISWomenJamaica.jpg
 Country:
 - Jamaica
 - Saint Lucia
@@ -29,4 +29,4 @@ Prior to the workshops, St Lucia and Jamaica completed the World Bank Open Data 
 
 These workshops represent first steps to realize countries goals based on open geo-data. HOT is pursuing support to build on these initial trainings with mapping events and additional training in each country.
 
-![IMG_3015 steven st lucia.JPG](/uploads/IMG_3015%20steven%20st%20lucia.JPG)
+![IMG_3015 steven st lucia.JPG](https://cdn.hotosm.org/website/IMG_3015+steven+st+lucia.JPG)

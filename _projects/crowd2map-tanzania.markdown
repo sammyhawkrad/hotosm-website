@@ -2,11 +2,11 @@
 title: Crowd2Map Tanzania
 date: 2018-06-05 23:00:00 Z
 permalink: projects/crowd2map-tanzania
-position: 48
+position: 65
 Project Summary Text: 'Crowd2Map Tanzania is a crowdsourced mapping project aiming
   to put rural Tanzania on the map, particularly those areas where girls are at risk
   of Female Genital Mutilation (FGM). '
-Feature Image: "/uploads/IMG_20180304_162924.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_20180304_162924.jpg
 Is Community-Led: true
 Country:
 - Tanzania
@@ -42,9 +42,11 @@ Crowd2Map also helped organise the first [State of the Map Tanzania](https://www
 
 
 ## Mapping Process
-The mapping process has two phases. Firstly, online volunteers trace roads and buildings from satellite images, then volunteers on the ground add names of villages, offices, churches, shops and other Points of Interest using a free smartphone app Maps.Me and printed Field Papers. The data is then emailed to a remote volunteer helper to input into OSM. The output is printable maps of villages, wards, whichare free for anyone to use.
+The mapping process has two phases. Firstly, online volunteers trace roads and buildings from satellite images, then volunteers on the ground add names of villages, offices, churches, shops and other Points of Interest using a free smartphone app Maps.Me and printed Field Papers. The data is then emailed to a remote volunteer helper to input into OSM. The output is printable maps of villages, wards, which are free for anyone to use.
 
 ## Join us
 Map for Crowd2Map projects [here](https://tasks.hotosm.org/contribute?difficulty=ALL&organisation=Tanzania%20Development%20Trust).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AW3v18ZJYDg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+To find out more see [Crowd2map Website](http://crowd2map.org/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IPXERbF5SFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

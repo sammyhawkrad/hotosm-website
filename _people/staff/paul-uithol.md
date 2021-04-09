@@ -1,10 +1,10 @@
 ---
 title: Paul Uithol
 date: 2015-07-14 16:44:00 Z
-Photo: "/uploads/paul-858a81.JPG"
+Photo: https://cdn.hotosm.org/website/paul-858a81.JPG
 Member Type:
   Is Staff: true
-Job Title: Director of Programs
+Job Title: Director of Humanitarian Data
 Working Group:
 - Communications
 Project:
@@ -31,7 +31,7 @@ redirect_from:
 - "/users/paul_uithol"
 ---
 
-Director of Programs with Humanitarian OpenStreetMap Team. I manage HOT’s field programs and country teams globally. This includes data collection & mapping programs with key government, NGO and private sector partners across sectors such as disaster and refugee response, urban planning, health emergencies, and disaster risk management.
+Director of Humanitarian Data with Humanitarian OpenStreetMap Team. I manage HOT’s field programs and country teams globally. This includes data collection & mapping programs with key government, NGO and private sector partners across sectors such as disaster and refugee response, urban planning, health emergencies, and disaster risk management.
 
 I've worked with HOT since early 2015, originally managing mapping projects such as "Ramani Huria" in Tanzania, and have continued supporting the growth and expansion of our communities and projects across the world. I immensely enjoy the combination of the educational aspects, local skills and capacity building, and supporting (local) governments and NGOs to incorporate open geospatial data into their thinking, policy and decision making across a wide range of sectors and use cases.
 

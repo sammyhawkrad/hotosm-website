@@ -2,10 +2,10 @@
 title: 'OSM Mali: Developing the Community'
 date: 2018-05-16 08:27:00 Z
 permalink: projects/openstreetmap-mali
-position: 81
+position: 98
 Project Summary Text: 'Mapping Bamako city and rural Mali to inform development initiatives
   and health services.  '
-Feature Image: "/uploads/IMG_0188.JPG"
+Feature Image: https://cdn.hotosm.org/website/IMG_0188.JPG
 Is Community-Led: true
 Country:
 - Mali

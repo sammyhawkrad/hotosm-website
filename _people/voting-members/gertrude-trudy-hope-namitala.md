@@ -1,11 +1,10 @@
 ---
 title: Gertrude (Trudy Hope) Namitala
 date: 2017-02-28 01:49:00 Z
-Photo: "/uploads/trudy-712dec.JPG"
+Photo: https://cdn.hotosm.org/website/trudy-712dec.JPG
 Member Type:
   Is Voting Member: true
   Is Board Member: true
-Job Title: Treasurer
 Working Group:
 - Fundraising
 Country: Zambia

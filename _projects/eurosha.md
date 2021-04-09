@@ -2,12 +2,12 @@
 title: EUROSHA
 date: 2012-08-12 21:59:00 Z
 permalink: projects/eurosha
-position: 89
+position: 106
 Project Summary Text: EUROSHA is a European Union pilot project that wants to build
   up a European Open-Source Humanitarian Aid corps of volunteers to address humanitarian
   issues and specifically ensure inclusive humanitarian information-sharing in crisis
   preparedness.
-Feature Image: "/uploads/P1200100.jpg"
+Feature Image: https://cdn.hotosm.org/website/P1200100.jpg
 Is Community-Led: true
 Country:
 - Burundi

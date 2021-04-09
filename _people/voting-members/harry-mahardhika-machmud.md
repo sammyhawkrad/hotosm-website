@@ -1,7 +1,7 @@
 ---
 title: Harry Mahardhika Machmud
 date: 2016-06-15 03:26:00 Z
-Photo: "/uploads/HOT_ID_Staff_Harry.png"
+Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Harry.png
 Member Type:
   Is Staff: true
   Is Voting Member: true
@@ -20,6 +20,7 @@ Project:
 - LearnOSM
 - Typhoon Haiyan
 Country: Indonesia
+Team: Indonesia
 Social Media (Full URL):
   Twitter: https://twitter.com/harrymahar
   LinkedIn: https://www.linkedin.com/in/harrymahardhika17

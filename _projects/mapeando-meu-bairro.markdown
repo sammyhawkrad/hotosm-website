@@ -2,9 +2,9 @@
 title: 'Mapeando Meu Bairro: Mapping Mafalala'
 date: 2018-05-01 13:56:00 Z
 permalink: projects/mapeando-meu-bairro
-position: 55
+position: 72
 Project Summary Text: Preserving cultural heritage
-Feature Image: "/uploads/reading%20field%20papers%20(blog).jpg"
+Feature Image: https://cdn.hotosm.org/website/reading+field+papers+(blog).jpg
 Is Community-Led: true
 Country:
 - Mozambique

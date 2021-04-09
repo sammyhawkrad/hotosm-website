@@ -2,10 +2,10 @@
 title: 'Community development: Microgrants and Device Grants'
 date: 2018-06-05 23:50:00 Z
 permalink: projects/microgrants_and_community_development
-position: 47
+position: 64
 Project Summary Text: HOT supports global OSM communities to expand their local projects
   through Microgrants and Device Grants.
-Feature Image: "/uploads/received_1740826335961060.jpeg"
+Feature Image: https://cdn.hotosm.org/website/received_1740826335961060.jpeg
 Country:
 - Bangladesh
 - Niger

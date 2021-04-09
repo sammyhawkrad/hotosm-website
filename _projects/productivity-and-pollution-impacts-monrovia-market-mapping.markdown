@@ -1,12 +1,12 @@
 ---
 title: 'Productivity and Pollution Impacts: Monrovia Market Mapping'
 date: 2020-01-28 03:12:00 Z
-position: 52
+position: 69
 Project Summary Text: 'To improve understanding of commercial areas and how business
   management can be leveraged to reduce congestion and solid waste issues, HOT and
   iLab Liberia will collect data on Duala Market covering: geographic layout and infrastructure,
   economic activity, solid waste, and traffic.  '
-Feature Image: "/uploads/unnamed.jpg"
+Feature Image: https://cdn.hotosm.org/website/unnamed.jpg
 Country:
 - Liberia
 Impact Area:

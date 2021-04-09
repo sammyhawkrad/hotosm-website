@@ -1,7 +1,7 @@
 ---
 title: Miriam Gonzalez
 date: 2017-02-28 14:06:00 Z
-Photo: "/uploads/foto_MG.jpg"
+Photo: https://cdn.hotosm.org/website/foto_MG.jpg
 Member Type:
   Is Voting Member: true
   Is Board Member: true
@@ -12,6 +12,10 @@ Project:
 - Women and Girls in Mapping
 - Hurricane Patricia
 - Eliminar la Malaria 2020
+Languages:
+- English
+- Español
+- Português
 Social Media (Full URL):
   Twitter: https://twitter.com/@mapanauta
   LinkedIn: https://www.linkedin.com/in/miriamgonzalez2

@@ -1,12 +1,13 @@
 ---
 title: 'Integrating OpenStreetMap data into Caribbean disaster response efforts: GeoCRIS'
 date: 2020-06-23 19:36:00 Z
+position: 1
 Project Summary Text: 'Shared knowledge and datasets are critical for Caribbean nations
   to prepare for, respond to and recover from disasters. HOT is supporting the Caribbean
   Disaster Emergency Management Agency (CDEMA) and the World Bank on integrating OpenStreetMap
   into a collaborative geospatial data platform to increase knowledge share and use
   of open geospatial data across CDEMA countries. '
-Feature Image: "/uploads/Jamaica.JPG"
+Feature Image: https://cdn.hotosm.org/website/Jamaica.JPG
 Country:
 - Anguilla
 - Antigua and Barbuda
@@ -36,6 +37,7 @@ Partner:
 - World Bank
 Duration:
   Start Date: 2020-03-01 00:00:00 Z
+  End Date: 2021-01-31 00:00:00 Z
 ---
 
 The Caribbean region is highly exposed to many hazards including hydro-meteorological, seismic, geological, biological and man-made. Compounded by the imminent threat of global climate change and the region’s inherent vulnerabilities as predominantly Small Island Developing States, this places the region in a rather precarious socio-economic situation. In order to be able to efficiently mainstream disaster risk management into development, knowledge on hazard and risk assessment, easily accessible data and information with a user-friendly presentation, and experience on the use of this information in decision-making is critical. 

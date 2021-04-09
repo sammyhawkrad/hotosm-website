@@ -1,10 +1,10 @@
 ---
 title: 'LECLARA: Sustainable Tourism Through Local Mapping in Ghana'
 date: 2019-05-02 11:56:00 Z
-position: 30
+position: 47
 Project Summary Text: Teaching youth meaningful skills while improving the local tourism
   industry
-Feature Image: "/uploads/Leclara.jpg"
+Feature Image: https://cdn.hotosm.org/website/Leclara.jpg
 Is Community-Led: true
 Country:
 - Ghana

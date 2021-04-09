@@ -2,11 +2,11 @@
 title: 'YouthMappers Nigeria: Gender Equality in the Mapping Community'
 date: 2018-05-16 09:15:00 Z
 permalink: projects/uniquemappersteam-umt-youthmappers
-position: 70
+position: 87
 Project Summary Text: UMT YouthMappers improve gender balance in the Nigerian mapping
   community, and create OpenStreetMap data support communities vulnerable to disasters
   and health crises in Nigeria
-Feature Image: "/uploads/umt.jpg"
+Feature Image: https://cdn.hotosm.org/website/umt.jpg
 Is Community-Led: true
 Country:
 - Nigeria

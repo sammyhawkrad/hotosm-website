@@ -1,11 +1,12 @@
 ---
 title: Hycinth Umaran
 date: 2020-11-04 06:25:00 Z
-Photo: "/uploads/mumaran-23a31f.jpg"
+Photo: https://cdn.hotosm.org/website/mumaran-23a31f.jpg
 Member Type:
   Is Staff: true
 Job Title: Scrum Master and Agile Coach
 Country: Philippines
+Team: Tech Team
 ---
 
 Hya has joined HOT to support the organisation and teams towards agile mindset and delivery. She is an IT professional who is innovative, with combined skills of business and technical acumen. Appointed to lead start-up and pilot teams both in corporate and non-profit organisations, she honed her skills in the areas of coaching, mentoring, facilitation and product management.

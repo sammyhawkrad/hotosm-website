@@ -1,7 +1,7 @@
 ---
 title: Dewi Sulistioningrum
 date: 2017-02-28 14:17:00 Z
-Photo: "/uploads/HOT_ID_Staff_Dewi.png"
+Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Dewi.png
 Member Type:
   Is Staff: true
   Is Voting Member: true
@@ -18,6 +18,7 @@ Project:
 - Ecuador Earthquake
 - HOT Indonesia Curriculum
 Country: Indonesia
+Team: Indonesia
 Social Media (Full URL):
   Twitter: https://twitter.com/@dewisulistio
   LinkedIn: https://www.linkedin.com/in/dewisulistioningrum/

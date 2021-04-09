@@ -2,11 +2,11 @@
 title: 'Mental Health aWHEREness Philippines: Reducing stigma and increasing access
   to mental health services'
 date: 2020-01-20 10:43:00 Z
-position: 12
+position: 29
 Project Summary Text: Mental Health aWHEREness aims to map more areas, train more
   people how to map, and build an evidence-base to show government and policy-makers
   where there is a lack of mental health resources available for those in need.
-Feature Image: "/uploads/60000857_437307660367154_2533659245803470848_n-d92e7e.jpg"
+Feature Image: https://cdn.hotosm.org/website/60000857_437307660367154_2533659245803470848_n-d92e7e.jpg
 Is Community-Led: true
 Country:
 - Philippines

@@ -2,7 +2,7 @@
 title: Leveraging ML-generated building data and motorcycle mapping in the DRC and
   Uganda to enhance the effectiveness of humanitarian response
 date: 2020-05-22 12:46:00 Z
-position: 5
+position: 22
 Project Summary Text: 'In combining machine-learning-based algorithms with a motorcycle
   mapping approach, HOT will generate comprehensive base map data of North Kivu and
   Ituri provinces in the Democratic Republic of Congo and the bordering districts
@@ -11,7 +11,7 @@ Project Summary Text: 'In combining machine-learning-based algorithms with a mot
   assistance should be delivered.
 
 '
-Feature Image: "/uploads/DxIJFn5WwAA_GMQ%20(1).jpeg"
+Feature Image: https://cdn.hotosm.org/website/DxIJFn5WwAA_GMQ+(1).jpeg
 Country:
 - Democratic Republic of the Congo
 - Uganda
@@ -38,7 +38,7 @@ The resulting project will focus on the most critical humanitarian need in the D
 <br>
 <br>
 <br>
-![Copy-of-Untitled-3.png](/uploads/Copy-of-Untitled-3.png)
+![Copy-of-Untitled-3.png](https://cdn.hotosm.org/website/Copy-of-Untitled-3.png)
 
 <i>This Project is supported by Grand Challenges Canada. Grand Challenges Canada is funded by the Government of Canada and is dedicated to supporting Bold Ideas with Big Impact®.</i>
 

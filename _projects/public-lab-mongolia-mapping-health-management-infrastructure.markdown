@@ -1,7 +1,8 @@
 ---
 title: 'Public Lab Mongolia: Mapping health management infrastructure'
 date: 2020-11-10 15:31:00 Z
-Feature Image: "/uploads/DSCF7029.JPG"
+position: 12
+Feature Image: https://cdn.hotosm.org/website/DSCF7029.JPG
 Is Community-Led: true
 Country:
 - Mongolia

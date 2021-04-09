@@ -17,7 +17,6 @@ Project:
 created: 1446090332
 ---
 
-
 Since the Humanitarian OpenStreetMap Team (HOT) officially activated on the 27th October, the team has been working hard to evaluate the mapping needs in response to the Eastern Afghanistan earthquake. There are two Tasking Manager projects set up in an effort to map key affected areas.
 
 Since the Humanitarian OpenStreetMap Team (HOT) officially activated on the 27th October, the team has been working hard to evaluate the mapping needs in response to the Eastern Afghanistan earthquake. There are two Tasking Manager projects set up in an effort to map key affected areas:
@@ -32,4 +31,4 @@ We would also like to say thank you to those that have been volunteering their t
 
 Every edit made is a huge step towards getting the much needed map data to those responding to the disaster. Please see the Eastern Afghanistan Earthquake [wiki page](http://wiki.openstreetmap.org/wiki/2015_Eastern_Afghanistan_Earthquake) for more information, as well as the OCHA [Flash Update](http://reliefweb.int/sites/reliefweb.int/files/resources/ocha_flash_update_badakshan_earthquake_2.pdf).
 
-![OSM Changesets-resized (1).png](/uploads/OSM%20Changesets-resized%20(1).png)
+![OSM Changesets-resized (1).png](https://cdn.hotosm.org/website/OSM+Changesets-resized+(1).png)

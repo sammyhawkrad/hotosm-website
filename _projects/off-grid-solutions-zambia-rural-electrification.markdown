@@ -2,12 +2,12 @@
 title: 'Off-grid Solutions: Zambia Rural Electrification'
 date: 2018-12-05 15:42:00 Z
 published: false
-position: 93
+position: 110
 Project Summary Text: HOT and OSM Zambia are mapping across eight provinces in rural
   Zambia to understand the viability of potential sites for renewable, off-grid electricity
   solutions, known as mini-grids. The data collected will guide Zambia’s rural electrification
   strategies.
-Feature Image: "/uploads/IMG_20180830_160506825.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_20180830_160506825.jpg
 Country:
 - Zambia
 Impact Area:

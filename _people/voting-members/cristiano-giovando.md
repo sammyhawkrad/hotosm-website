@@ -1,7 +1,7 @@
 ---
 title: Cristiano Giovando
 date: 2015-01-21 20:32:00 Z
-Photo: "/uploads/cristiano.jpg"
+Photo: https://cdn.hotosm.org/website/cristiano.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
@@ -16,6 +16,9 @@ Project:
 - Nepal 2015 Earthquake Response
 - HOT Training Center
 Country: Italy
+Languages:
+- English
+- Italiano
 Social Media (Full URL):
   Twitter: https://twitter.com/giovand
   LinkedIn: https://www.linkedin.com/in/giovando

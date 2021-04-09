@@ -1,11 +1,11 @@
 ---
 title: Research on mapping with open machine learning
 date: 2020-04-01 12:00:00 Z
-position: 22
+position: 39
 Project Summary Text: HOT is working with the Netherlands Red Cross to have an evidence-based
   look at current AI-supported mapping flows and to take the next step towards using
   OSM data for training machine learning models.
-Feature Image: "/uploads/ai-polygon-pass.jpg"
+Feature Image: https://cdn.hotosm.org/website/ai-polygon-pass.jpg
 HOT Involvement: Disaster Risk Reduction
 Impact Area:
 - Disaster Risk Reduction

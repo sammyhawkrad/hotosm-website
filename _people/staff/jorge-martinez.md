@@ -1,11 +1,15 @@
 ---
 title: Jorge Martínez
 date: 2019-07-03 08:13:00 Z
-Photo: "/uploads/jorge.jpg"
+Photo: https://cdn.hotosm.org/website/jorge.jpg
 Member Type:
   Is Staff: true
 Job Title: Developer
 Country: Colombia
+Languages:
+- English
+- Español
+- Italiano
 Social Media (Full URL):
   Twitter: https://twitter.com/_JorgeMartinezG
 ---
